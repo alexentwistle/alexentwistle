@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexentwistle
-- 👀 I’m interested in SEO, Advertising and Automation
+- 👀 I’m interested in SEO, Digital Marketing and Automation
 - 🌱 I’m currently learning Python
 - 📫 Reach out at linkedin.com/in/alexentwistle/
 
