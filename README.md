@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexentwistle
-- 👀 I’m interested in SEO, Digital Marketing and Automation
-- 🌱 I’m currently learning Python
+- 👀 Interested in SEO, Digital Marketing, AI and Automation
+- 🌱 Currently learning Python
 - 📫 Reach out at linkedin.com/in/alexentwistle/
 
 <!---
