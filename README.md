@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexentwistle
-- 👀 An accomplished digital leader with over a decade of experience in scaling high-growth start-ups in competitive sectors
-- 🔥 Deeply passionate about SEO, Growth, Product and Efficiency
-- 🌱 Currently learning Python
+- 👀 I have over a decade of experience in scaling high-growth start-ups in disruptive industries like EdTech & HealthTech
+- 🔥 Deeply passionate about SEO, Growth, Product, AI, Automation & Efficiency
+- 🐍 My favourite language is Python
 - 📫 Reach out at linkedin.com/in/alexentwistle/
 
 <!---
